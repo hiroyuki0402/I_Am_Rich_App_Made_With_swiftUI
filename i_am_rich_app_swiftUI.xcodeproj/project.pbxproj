@@ -24,6 +24,7 @@
 		3B50928C2ABF2B02002C406E /* View-Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View-Extension.swift"; sourceTree = "<group>"; };
 		3B5092902ABF2B36002C406E /* NavigationBarColorModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarColorModifier.swift; sourceTree = "<group>"; };
 		3B5092922ABF3DBB002C406E /* i-am-rich-app-swiftUI-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "i-am-rich-app-swiftUI-Info.plist"; sourceTree = SOURCE_ROOT; };
+		3B5092932ABF4494002C406E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				3B50928C2ABF2B02002C406E /* View-Extension.swift */,
 				3B19D3EA2ABF225300B831C8 /* Assets.xcassets */,
 				3B19D3EC2ABF225300B831C8 /* Preview Content */,
+				3B5092932ABF4494002C406E /* README.md */,
 			);
 			path = i_am_rich_app_swiftUI;
 			sourceTree = "<group>";
